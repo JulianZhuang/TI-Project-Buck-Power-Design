@@ -9,13 +9,13 @@
 
 2.0 Schematic Design and Simulation
 
-  2.1
+  2.1 Create initial schematic design for power supply 
+
+  2.2 Select components based on cost, size, and efficiency priorities
   
-  2.2
+  2.3 Perform simulations using WEBENCH and PSPICE for TI
   
-  2.3
-  
-  3.4
+  3.4 Optimize design based on simulation results
 
 3.0 
 
@@ -29,13 +29,13 @@
 
 4.0 Possible Lab Testing @ TI
 
-  4.1
+  4.1 Reach out to TI for permission to use lab and equipment on site
   
-  4.2
+  4.2 Plan a day to go to TI with the whole team
   
-  4.3
+  4.3 Conduct tests in lab and verify that the design works
   
-  4.4
+  4.4 Take results and analyze 
 
 5.0 Final Report and Presentation
 
