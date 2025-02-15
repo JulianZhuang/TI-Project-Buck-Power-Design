@@ -42,3 +42,6 @@
   5.3 Finalize all design decisions and discuss design process with team
   
   5.3 Prepare presentation materials 
+
+  ![Untitled diagram-2025-02-15-071143](https://github.com/user-attachments/assets/7241cb17-5011-4440-9181-ca93f02bc578)
+
