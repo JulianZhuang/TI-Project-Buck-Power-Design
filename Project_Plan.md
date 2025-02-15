@@ -21,7 +21,7 @@
 
   3.1  Learn and design PCB layout
   
-  3.2 
+  3.2 Design PCB for final power supply
 
 4.0 Possible Lab Testing @ TI
 
