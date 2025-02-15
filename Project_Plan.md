@@ -1,10 +1,14 @@
 1.0 Research
   1.1 Define project objectives and scope
+  
   1.2 Conduct background research on DC/DC power supply design
+  
   1.3 Study TI simulation tools (WEBENCH, POWERSTAGE-DESIGNER, PSPICE for TI)
+  
   1.4 Look into finding lab equipment for testing
 
 2.0 Schematic Design and Simulation
+
   2.1
   2.2
   2.3
