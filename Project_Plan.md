@@ -17,15 +17,11 @@
   
   3.4 Optimize design based on simulation results
 
-3.0 
+3.0 PCB Design 
 
-  3.1
+  3.1  Learn and design PCB layout
   
-  3.2
-  
-  3.3
-  
-  3.4
+  3.2 
 
 4.0 Possible Lab Testing @ TI
 
@@ -35,9 +31,9 @@
   
   4.3 Conduct tests in lab and verify that the design works
   
-  4.4 Take results and analyze 
+  4.4 Take results and analyze to ensure it meets specs
 
-5.0 Final Report and Presentation
+5.0 Final Test Report and Presentation
 
   5.1 Document simulation and test results
   
@@ -46,5 +42,3 @@
   5.3 Finalize all design decisions and discuss design process with team
   
   5.3 Prepare presentation materials 
-  
-  5.4
