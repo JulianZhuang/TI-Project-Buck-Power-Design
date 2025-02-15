@@ -3,6 +3,6 @@ SJSU Spring 25 University Internship
 
 
 Team Member:
-Julian Zhuang
-Sumaiyah Alamgir
+Julian Zhuang,
+Sumaiyah Alamgir,
 Zoya Shamak
